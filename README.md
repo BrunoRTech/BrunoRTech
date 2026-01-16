@@ -10,7 +10,7 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Dafny](https://img.shields.io/badge/Dafny-F7D13D?style=for-the-badge)
-![LC-3 Assembly](https://img.shields.io/badge/LC--3%20Assembly-6B7280?style=for-the-badge)
+![LC-3](https://img.shields.io/badge/LC--3-6B7280?style=for-the-badge)
 
 # 📹 Software Stack
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
